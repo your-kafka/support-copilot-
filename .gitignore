@@ -1,7 +1,7 @@
 # Byte-compiled / optimized / DLL files
 FastAPI/
 venv/
-data/faiss_index
+data/faiss_index/
 __pycache__/
 *.py[codz]
 *$py.class
