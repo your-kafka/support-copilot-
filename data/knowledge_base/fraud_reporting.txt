@@ -1,0 +1,15 @@
+Unauthorized Transaction and Fraud Reporting
+
+If a user reports an unauthorized or fraudulent transaction, immediate action is required.
+
+Steps:
+1. Advise the user to secure their account by changing their password and enabling two-factor authentication.
+2. Temporarily block the payment method if necessary.
+3. Record transaction details, time, and amount.
+4. Escalate the case to the fraud investigation team.
+
+Users should also be advised to:
+- Contact their bank immediately
+- File a complaint if required
+
+Fraud investigations typically take 5–10 business days depending on the complexity of the case.

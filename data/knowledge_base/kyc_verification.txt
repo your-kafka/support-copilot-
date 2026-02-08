@@ -1,0 +1,18 @@
+KYC Verification Process
+
+KYC (Know Your Customer) verification is required to activate full account features, including withdrawals and high-value transactions.
+
+Users must submit:
+- Government-issued ID (Aadhaar, PAN, Passport, or Driving License)
+- A clear selfie for identity verification
+- Address proof (if required)
+
+Common reasons for KYC rejection:
+- Blurry or cropped documents
+- Mismatch between name on ID and account
+- Expired identification documents
+- Low-quality images or glare
+
+Users can resubmit KYC documents after correcting the issue. Verification typically takes 24–48 hours.
+
+Repeated failed submissions may result in temporary account restrictions until manual review is completed.

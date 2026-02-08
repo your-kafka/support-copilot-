@@ -1,0 +1,14 @@
+Duplicate Charge Handling
+
+A duplicate charge may occur due to network timeouts or repeated payment attempts.
+
+If a user sees multiple charges for the same transaction:
+1. Verify transaction IDs and timestamps.
+2. Check if one transaction is marked as pending or failed.
+3. Most duplicate charges are automatically reversed within 3–5 business days.
+
+Users should be advised:
+- Not to initiate a chargeback immediately
+- To wait for the settlement cycle to complete
+
+If both charges are settled and no refund is initiated within 5 business days, the case should be escalated to the payments investigation team.

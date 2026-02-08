@@ -1,0 +1,18 @@
+Refund Processing Policy
+
+Refunds are initiated when a transaction is successfully reversed or cancelled. Once a refund is approved, the amount is returned to the original payment method.
+
+Typical refund timelines:
+- UPI: 1–3 business days
+- Debit/Credit Card: 3–7 business days
+- Net Banking: 2–5 business days
+- Wallet balance: Instant to 24 hours
+
+If a refund has been processed but is not reflected in the user’s bank account within the expected time, the user should contact their bank with the transaction reference number (UTR or ARN).
+
+Refunds may be delayed in cases of:
+- Bank processing delays
+- Incorrect beneficiary details
+- Network or settlement failures
+
+If the refund is not received after 7 business days, the issue should be escalated to the payments team.
